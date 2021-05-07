@@ -1,6 +1,9 @@
 /***** Edison Raunel Feliz Matricula 19-SIIN-1-023 SECCION 0541*****/
 USE [master]
 GO
+/***** Garber figuereo mosquea Matrícula 19-SIIT-1-078 Sección 0541*****/
+USE [ máster ]
+GO
 /****** Object:  Database [CRMaster]    Script Date: 28/04/2021 16:39:40 ******/
 CREATE DATABASE [CRMaster]
  CONTAINMENT = NONE
